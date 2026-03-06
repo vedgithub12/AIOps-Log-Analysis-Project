@@ -2,8 +2,11 @@
 
 > An end-to-end **AI-powered log monitoring system** that ingests, analyzes, and visualizes system logs in real time — deployed on **AWS EC2** with IAM-based security, featuring ML-driven anomaly detection and an interactive **Streamlit dashboard with 3D visualizations**.
 
-#Below is the project live demo to understand better
-DEMO
+## Project Demo
+
+Click here to watch the project demo:  
+[DEMO](https://drive.google.com/file/d/154h9px3MIKkvF2ZDSJzdPOrwSDzejQSW/view?usp=sharing)
+
 ---
 
 ## 📌 Table of Contents
